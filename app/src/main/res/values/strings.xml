@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Transkommerc</string>
+    <string name="avatar">Аватар</string>
+
+    <string name="user_name_attribute">Имя</string>
+    <string name="phone_number_attribute">Номер телефона</string>
+
+    <string name="my_trips">Мои поездки</string>
+    <string name="find_trip">Найти поездку</string>
+    <string name="account">Профиль</string>
+
+    <string name="find">Найти</string>
+    <string name="completed_trips">Завершённые поездки</string>
+    <string name="placeholder_wherefrom">Откуда</string>
+    <string name="placeholder_whereto">Куда</string>
+    <string name="booked_trips">Забронированные поездки</string>
+
+    <string name="rudny_city">Рудный</string>
+    <string name="chelyabinsk_city">Челябинск</string>
+    <string name="back">Back</string>
+    <string name="trip">Поездка</string>
+    <string name="driver">Водитель</string>
+    <string name="home">Главное меню</string>
+
+
+</resources>
